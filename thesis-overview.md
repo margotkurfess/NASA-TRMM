@@ -1,20 +1,9 @@
-# My Thesis in a nutshell
+# Rainfall Shocks and the Effects on Child Anthropometric Measures in Rural Ethiopia
+## *Empirical Evidence of Gender Bias*
+### Margot Kurfess, Björn Wisaeus
 
-<center>
-<h2>	
-	Rainfall Shocks and the Effects on Child Anthropometric Measures in Rural Ethiopia
-</h2>
+**Abstract**
 
-<h3>
-	<em>Empirical Evidence of Gender Bias</em>
-</h3>
-<h4>	
-Margot Kurfess, Björn Wisaeus
-</h4>
-<br><br>
-<b>Abstract</b>
-<br>
-</center>
 This paper seeks to estimate the effects of rainfall fluctuations on the anthropometric
 health of children under the age of five in rural Ethiopia. Our interest is to study
 whether boys and girls experience differential treatment in the intra-household allocation
