@@ -27,7 +27,7 @@ The code will then be broken out by language in the following folders:
 
 And if you're interested in what this was all for or to get a little more context into my thesis work:
 
-- [This is MSc Thesis in a very small nutshell](https://github.com/margotkurfess/NASA-TRMM/blob/master/thesis-overview.md)
+- [This is my MSc Thesis in a very small nutshell](https://github.com/margotkurfess/NASA-TRMM/blob/master/thesis-overview.md)
 
 ## Contribution
 
