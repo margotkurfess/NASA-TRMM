@@ -16,7 +16,7 @@ Now that I have been developing my coding skills, my goals for this repo are to:
 
 ## Overview
 
-T
+The process of using rainfall data can be challenging and has lots of steps, hence this guide (WIP):
 
 - [The data process of using NASA TRMM data using Python or R](https://github.com/margotkurfess/NASA-TRMM/blob/master/data-process.md)
 
