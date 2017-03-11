@@ -3,7 +3,7 @@
 **TLDR:** I used NASA TRMM rainfall data for my MSc Thesis in Economics exploring the effects of rainfall shocks on child health by gender in rural Ethiopia. My thesis partner, Björn, and I had no idea what we were getting into and it ended up serving as a crash course in R. 
 
 - [Description](https://github.com/margotkurfess/NASA-TRMM#description)
-- [Overview](https://github.com/margotkurfess/NASA-TRMM#overview)
+- [Overview](https://github.com/margotkurfess/NASA-TRMM#structure)
 - [Contribution](https://github.com/margotkurfess/NASA-TRMM#contribution)
 
 ## Description
@@ -14,20 +14,30 @@ Now that I have been developing my coding skills, my goals for this repo are to:
 - Write documentation to help others tap into the wealth of rainfall data (NASA is the best!)
 - Work on a Python version of the code
 
-## Overview
+## Structure
+
+### Docs
 
 The process of using rainfall data can be challenging and has lots of steps, hence this guide (WIP):
 
-- [The data process of using NASA TRMM data using Python or R](https://github.com/margotkurfess/NASA-TRMM/blob/master/data-process.md)
+- [Guide to using NASA TRMM data](https://github.com/margotkurfess/NASA-TRMM/blob/master/docs/data-process.md)
+
+And if you're interested in what this was all for or to get a little more context into my thesis work:
+
+- [This is my MSc Thesis in a very small nutshell](https://github.com/margotkurfess/NASA-TRMM/blob/master/docs/thesis-overview.md)
+
+### Code
 
 The code will then be broken out by language in the following folders:
 
 - [R](https://github.com/margotkurfess/NASA-TRMM/tree/master/R)
 - [Python](https://github.com/margotkurfess/NASA-TRMM/tree/master/Python)
 
-And if you're interested in what this was all for or to get a little more context into my thesis work:
+### Data
 
-- [This is my MSc Thesis in a very small nutshell](https://github.com/margotkurfess/NASA-TRMM/blob/master/thesis-overview.md)
+The raw data will live in the following folder:
+
+- [Data](https://github.com/margotkurfess/NASA-TRMM/tree/master/data)
 
 ## Contribution
 
